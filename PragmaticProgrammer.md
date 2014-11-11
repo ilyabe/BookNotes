@@ -1,14 +1,14 @@
 ## Ch. 1: A Pragmatic Philosophy
-**- TODO: re-read all sections for notes**
+** TODO: re-read all sections for notes**
 #### 1: The Cate Ate My Source Code
-### 2: Software Entropy
+#### 2: Software Entropy
 #### 3: Stone Soup and Boiled Frogs
 #### 4: Good-Enough Software
 #### 5: Your Knowledge Portfolio
 #### 6: Communicate!
 
 ## Ch. 2: A Pragmatic Approach
-**- TODO: re-read sections 7-12 for notes**
+** TODO: re-read sections 7-12 for notes**
 #### 7: The Evils of Duplication
 #### 8: Orthogonality
 #### 9: Reversibility
