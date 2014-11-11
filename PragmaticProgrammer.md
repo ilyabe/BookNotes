@@ -1,22 +1,22 @@
 ## Ch. 1: A Pragmatic Philosophy
 **- TODO: re-read all sections for notes**
-### 1: The Cate Ate My Source Code
+#### 1: The Cate Ate My Source Code
 ### 2: Software Entropy
-### 3: Stone Soup and Boiled Frogs
-### 4: Good-Enough Software
-### 5: Your Knowledge Portfolio
-### 6: Communicate!
+#### 3: Stone Soup and Boiled Frogs
+#### 4: Good-Enough Software
+#### 5: Your Knowledge Portfolio
+#### 6: Communicate!
 
 ## Ch. 2: A Pragmatic Approach
 **- TODO: re-read sections 7-12 for notes**
-### 7: The Evils of Duplication
-### 8: Orthogonality
-### 9: Reversibility
-### 10: Tracer Bullets
-### 11: Prototypes and Post-it Notes
-### 12: Domain Languages
+#### 7: The Evils of Duplication
+#### 8: Orthogonality
+#### 9: Reversibility
+#### 10: Tracer Bullets
+#### 11: Prototypes and Post-it Notes
+#### 12: Domain Languages
 
-### 13: Estimating
+#### 13: Estimating
   - Tip 18: Estimate to Avoid Surprises
   - Duration Quote estimate in
   - 1–15 days     days
@@ -45,7 +45,7 @@
   - **Tip 20: Keep knowledge in plain-text, e.g. properties**
   - Only issue is that it's out of context
 
-### 14: The Power of Plain Text
+#### 14: The Power of Plain Text
   - Pragmatic Programmers don’t just cut code, or develop object models, or write documentation, or automate the build process we do all of these things.
   - GUIs
     - Pros: WYSIWYG
@@ -58,12 +58,12 @@
   - Automation, combination
   - *Tip 21: Use the Power of Command Shells*
 
-### 16: Power Editing
+#### 16: Power Editing
 
-### 17: Source Code Control
+#### 17: Source Code Control
   - Tip 23: Always Use Source Code Control
 
-### 18. Debugging
+#### 18. Debugging
 - A moth was literally the first bug
 - **Tip 24: Fix the Problem, Not the Blame**
 - First rule of debugging, **Tip 25: Don't panic**
@@ -84,4 +84,4 @@
   - Unit tests pass? What about with *this* data?
   - Do the conditions that cause the bug exist anywhere else in the system?
 
-### 19. Text Manipulation
+#### 19. Text Manipulation
