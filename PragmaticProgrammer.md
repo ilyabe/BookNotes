@@ -16,7 +16,7 @@
 ### 11: Prototypes and Post-it Notes
 ### 12: Domain Languages
 
-## 13: Estimating
+### 13: Estimating
   - Tip 18: Estimate to Avoid Surprises
   - Duration Quote estimate in
   - 1–15 days     days
@@ -40,7 +40,7 @@
   - Slow down and think
   - Challenge: Log estimates. How accurate was I? If error > 50%, where did I go wrong?
 
-## 3: The Basic Tools
+## Ch. 3: The Basic Tools
   - Get comfortable with the basic tools. Shell, text editor, version control, glue (e.g. perl, python). Let need drive acquisition. Look out for better way of doing things. 
   - **Tip 20: Keep knowledge in plain-text, e.g. properties**
   - Only issue is that it's out of context
@@ -50,10 +50,10 @@
   - GUIs
     - Pros: WYSIWYG
     - Cons: WYSIAYG
-  - *Tip 22: Use a Single Editor Well*
+  - **Tip 22: Use a Single Editor Well**
   - Pick a powerful editor and learn it well.
 
-### 15: Shell Games
+#### 15: Shell Games
   - A workbench
   - Automation, combination
   - *Tip 21: Use the Power of Command Shells*
