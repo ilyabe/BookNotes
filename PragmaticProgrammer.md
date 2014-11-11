@@ -1,13 +1,21 @@
-## 1: A Pragmatic Philosophy
-- TODO: re-read for notes
+## Ch. 1: A Pragmatic Philosophy
+**- TODO: re-read all sections for notes**
+### 1: The Cate Ate My Source Code
+### 2: Software Entropy
+### 3: Stone Soup and Boiled Frogs
+### 4: Good-Enough Software
+### 5: Your Knowledge Portfolio
+### 6: Communicate!
 
-## 2: A Pragmatic Approach
-## 7: The Evils of Duplication
-## 8: Orthogonality
-## 9: Reversibility
-## 10: Tracer Bullets
-## 11: Prototypes and Post-it Notes
-## 12: Domain Languages
+## Ch. 2: A Pragmatic Approach
+**- TODO: re-read sections 7-12 for notes**
+### 7: The Evils of Duplication
+### 8: Orthogonality
+### 9: Reversibility
+### 10: Tracer Bullets
+### 11: Prototypes and Post-it Notes
+### 12: Domain Languages
+
 ## 13: Estimating
   - Tip 18: Estimate to Avoid Surprises
   - Duration Quote estimate in
