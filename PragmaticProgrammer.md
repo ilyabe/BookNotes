@@ -1,3 +1,6 @@
+# Pragmatic Programmer
+![Pragmatic Programmer](http://bks2.books.google.com/books?id=5wBQEp6ruIAC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73J5eXHsttYPLsIbkxNyirIq2IUahoFLPuVgHHeXTAXdBskdmCiDDZvZm0V__qtSZRhrDSnrS2iEjOa20hNaw6dnkkIZzy8kOwXKp2-H7OobKs6M6tv9dtGzLAMz552elx7MYW6)
+
 ## Ch. 1: A Pragmatic Philosophy
 **TODO: re-read all sections for notes**
 #### 1: The Cate Ate My Source Code
