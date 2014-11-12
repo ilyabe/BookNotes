@@ -89,3 +89,9 @@
   - Do the conditions that cause the bug exist anywhere else in the system?
 
 #### 19. Text Manipulation
+- General purpose text manipulation tool
+- Take time to master, can be powerful in right hands, can destroy like routers in woodworking
+- Unix command shell, awk, sed
+- More OO: Python, Tcl, Ruby, Perl
+  - PragProg prefer Ruby, Perl
+- **Tip 28: Learn a Text Manipulation Language**
