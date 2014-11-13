@@ -95,3 +95,17 @@
 - More OO: Python, Tcl, Ruby, Perl
   - PragProg prefer Ruby, Perl
 - **Tip 28: Learn a Text Manipulation Language**
+
+#### 20. Code Generators
+- **Tip 29: Write Code That Writes Code**
+- Passive code generators - run once to produce result
+  - Parameterized templates
+  - New source files, e.g. with comments
+  - Don't have to be 100% accurate, can clean up by hand
+- Active code generators - run each time their results are needed
+  - Necessary for dry principal
+  - Consider for 2+ disparate environments, e.g. DB and programming language
+  - e.g. using DB schema to generate model in code, or other way around (Hibernate?)
+- Exercise: Write a code generator
+
+## Ch. 4: Pragmatic Paranoia
