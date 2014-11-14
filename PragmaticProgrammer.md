@@ -113,3 +113,16 @@
 - Turn it into an advantage
 - Code defensively
 - Don't trust self either
+
+#### 21. Design by Contract
+- Same benefits as for human interaction
+- Correct program does no more and no less than it claims to do
+- Expectations, claims about state
+  - Preconditions - method's requirements, good data, caller must ensure this
+  - Postconditions - will conclude, what method is guaranteed to do
+  - Class invariants - something that must be true when returned to caller
+- Given preconditions met, postconditions will be met and invariants will be true, else remedy is agreed upon exception
+- **Tip 31: Design with Contracts**
+- "lazy code" - strict on what's accepted, return as little as possible
+- *Liskov Substitution Principle: Subclasses must be usable through the base class interface without the need for the user to know the difference.*
+- 
