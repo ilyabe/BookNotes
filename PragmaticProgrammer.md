@@ -109,3 +109,7 @@
 - Exercise: Write a code generator
 
 ## Ch. 4: Pragmatic Paranoia
+- **Tip 30: You Can't Write Perfect Software**
+- Turn it into an advantage
+- Code defensively
+- Don't trust self either
